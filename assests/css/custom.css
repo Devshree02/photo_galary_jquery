@@ -1,0 +1,28 @@
+.search-bar
+{
+	border: 1px solid black; 
+	width: 25%;
+	margin: auto;
+}
+input
+{
+	border: none;
+}
+.cross-icon
+{
+	display: none;
+	position: relative;
+	right: -50px;
+}
+.search-icon
+{
+	position: relative;
+	right: -30px;
+}
+img
+{
+	width: 350px;
+	height: 200px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
